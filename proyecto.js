@@ -1,8 +1,6 @@
-console.log("hello word")
+let num1 = parseFloat(prompt("Ingrese el primer número:"));
+let num2 = parseFloat(prompt("Ingrese el segundo número:"));
 
-console.log("Hola hector")
+let resultado = num1 + num2;
 
-console.log("Estoy en informatica porque me gusta jugar lol")
-
-console.log("de nuevo yo")
-console.log("Hola")
+alert("El resultado de la suma es: " + resultado);
