@@ -1,3 +1,5 @@
 console.log("hello word")
 
 console.log("Hola hector")
+
+console.log("Estoy estudiando informatica por que me gustan las computadoras")
